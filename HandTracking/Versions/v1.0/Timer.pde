@@ -1,4 +1,6 @@
 
+//This is a comment to test the edit trace on guthubn
+
 public class Timer {
   
   float time;
